@@ -1,4 +1,3 @@
-## Hi there 
 ## 👋 Hi, we're Shipton.
 
 We're a content strategy and web development agency based in Port Coquitlam, British Columbia.
