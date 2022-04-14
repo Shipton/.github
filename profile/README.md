@@ -1,6 +1,6 @@
 ## 👋 Hi, we're Shipton.
 
-![Shipton Light Industries](img/socialshare.png)
+![Shipton Light Industries](profile/img/socialshare.png)
 
 We're a content strategy and web development agency based in Port Coquitlam, British Columbia.
 
