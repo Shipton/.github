@@ -1,11 +1,12 @@
-## 👋 Hi, we're Shipton.
-
 ![Shipton Light Industries](profile/img/socialshare.png)
+
+## 👋 Hi, we're Shipton.
 
 We're a content strategy and web development agency based in Port Coquitlam, British Columbia.
 
 We're partners who have been building content and websites for over 20 years. We have a breadth of experience with private, public sector, and non-profit organizations across a number of industries.
 
+We also build [Today](https://today.shipton.io), a task manager built inside of Slack. 
 
 <!--
 
