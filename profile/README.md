@@ -1,4 +1,4 @@
-![Shipton Light Industries](profile/img/socialshare.png)
+![Shipton Light Industries](profile/img/socialshare-smallbusiness.png)
 
 ## 👋 Hi, we're Shipton.
 
